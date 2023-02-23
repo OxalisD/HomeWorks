@@ -1,0 +1,4 @@
+24 Feb 2023 00:45:28 -- hello_world, arguments: [], result: Hello World
+24 Feb 2023 00:45:28 -- summator, arguments: [2, 2], result: 4
+24 Feb 2023 00:45:28 -- div, arguments: [6, 2], result: 3.0
+24 Feb 2023 00:45:28 -- summator, arguments: [4.3, 2.2], result: 6.5
